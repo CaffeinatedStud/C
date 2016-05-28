@@ -1,2 +1,2 @@
 # C
->some random codes I did while learning C
+>some random codes I wrote while learning C
